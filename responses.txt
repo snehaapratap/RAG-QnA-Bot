@@ -1,0 +1,9 @@
+# Sample Questions and Chatbot Responses
+
+Q: Who is the author of Meditations?
+A: The author of Meditations is Marcus Aurelius.
+
+Q: What is the main theme of Meditations?
+A: The main theme of Meditations is Stoic philosophy and personal reflection.
+
+# Add more Q&A pairs as needed for your assignment. 

@@ -5,3 +5,6 @@ streamlit
 pdfminer.six
 unstructured
 tiktoken
+langchain-community
+python-dotenv
+pypdf
