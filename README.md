@@ -76,7 +76,10 @@ streamlit run app.py
 Then open the provided URL (usually [http://localhost:8501](http://localhost:8501)) in your browser.
 
 ---
+## Screenshot
+<img width="1404" alt="Screenshot 2025-05-19 at 23 33 41" src="https://github.com/user-attachments/assets/20d91f7a-b8e0-4f18-99e0-c0002b41b3f2" />
 
+---
 ## 💬 Usage
 
 * Type your question based on the document contents.
