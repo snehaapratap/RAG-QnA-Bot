@@ -6,7 +6,7 @@ st.set_page_config(page_title="RAG Chatbot")
 st.title("📚 RAG-based Chatbot")
 
 st.markdown("""
-**Note:** Ensure you have set your OpenAI API key in a `.env` file in the project root as `OPENAI_API_KEY=your-key-here`.
+**Note:** Ensure you have set your Gemini API key in a `.env` file in the project root as `GEMINI_API_KEY=your-gemini-api-key-here`.
 """)
 
 query = st.text_input("Ask a question based on the document:")

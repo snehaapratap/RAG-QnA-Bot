@@ -1,5 +1,4 @@
 langchain
-openai
 chromadb
 streamlit
 pdfminer.six
@@ -8,3 +7,5 @@ tiktoken
 langchain-community
 python-dotenv
 pypdf
+google-generativeai
+sentence-transformers
