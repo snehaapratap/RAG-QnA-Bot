@@ -36,6 +36,6 @@ def ask_question(query):
     docs = retriever.get_relevant_documents(query)
     context = "\n".join([doc.page_content for doc in docs])
     prompt = f"Answer the following question based on the context below.\n\nContext:\n{context}\n\nQuestion: {query}\n\nAnswer:"
-    model = genai.GenerativeModel("gemini-pro")
+    model = genai.GenerativeModel("models/gemini-2.0-flash")
     response = model.generate_content(prompt)
     return response.text.strip()
