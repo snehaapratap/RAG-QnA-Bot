@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 from chatbot import ask_question
-from langchain_community.vectorstores import Chroma
+from langchain_community.vectorstores import FAISS
 
 st.set_page_config(page_title="RAG Chatbot")
 st.title("📚 RAG-based Chatbot")

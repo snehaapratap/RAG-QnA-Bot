@@ -9,3 +9,4 @@ python-dotenv
 pypdf
 google-generativeai
 sentence-transformers
+faiss-cpu
