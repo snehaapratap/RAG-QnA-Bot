@@ -1,9 +1,30 @@
-# Sample Questions and Chatbot Responses
-
 Q: Who is the author of Meditations?
 A: The author of Meditations is Marcus Aurelius.
 
 Q: What is the main theme of Meditations?
 A: The main theme of Meditations is Stoic philosophy and personal reflection.
 
-# Add more Q&A pairs as needed for your assignment. 
+Q: What are some key teachings from Meditations?
+A: Key teachings include living according to reason and virtue, accepting what is in one's control, understanding the impermanence of things, and focusing on the present moment.
+
+Q: How does Marcus Aurelius suggest dealing with external events?
+A: He suggests being indifferent to external events and focusing on one's own actions and responses, which are within one's control.
+
+Q: What is the significance of virtue in Meditations?
+A: Virtue is considered the highest good, and living a virtuous life is central to Stoic philosophy as described in Meditations.
+
+Q: How does Meditations address the concept of impermanence?
+A: Meditations teaches that everything in the universe is transient and encourages acceptance of change and loss as natural parts of life.
+
+Q: What advice does Marcus Aurelius give for handling adversity?
+A: He advises maintaining composure, practicing self-discipline, and viewing challenges as opportunities for personal growth.
+
+Q: How does Meditations encourage self-reflection?
+A: The text is structured as a series of personal notes and reflections, urging readers to examine their own thoughts, actions, and motivations regularly.
+
+Q: What role does reason play in Meditations?
+A: Reason is seen as a guiding principle for making decisions and living a meaningful, ethical life.
+
+Q: How does Meditations view the common good?
+A: Marcus Aurelius emphasizes performing actions for the benefit of the community and contributing to the common good as a duty of every individual.
+
